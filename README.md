@@ -1,6 +1,8 @@
-**media-queries.less**
+media-queries.less
 
-Example:
+**Description:** Media query macros
+
+**Example:**
 ```less
 .test {
     @media @lg {
